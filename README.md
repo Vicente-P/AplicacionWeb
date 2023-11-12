@@ -10,10 +10,6 @@ Tutor:
 
 * Juan Barros
 
-## Wiki
-
-Puede acceder a la wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/vperez/inf225-2023-1-grupo12/-/wikis/home)
-
 ## Videos 
 
 * [Video presentación cliente](https://youtu.be/rmBCuRhtwx0)
